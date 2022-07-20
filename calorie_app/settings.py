@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-$55+mr&81tlsw+5j67re5+4_@g5=77r&)t7&666a&vdg6^5)6c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 ALLOWED_HOSTS = ['*']
-CSRF_TRUSTED_ORIGINS =['https://mail-sender-jai91.azurewebsites.net']
+CSRF_TRUSTED_ORIGINS =['https://calorietracker-jai91.azurewebsites.net/']
 
 
 # Application definition
